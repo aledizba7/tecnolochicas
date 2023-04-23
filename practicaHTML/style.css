@@ -1,0 +1,23 @@
+body{
+    background-image: url("/practicaHTML/imagenes/fondo.jpg");
+}
+
+#titulo{
+    color:brown;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+}
+
+img {
+    width: 400px;
+}
+
+p{
+    color: rgb(9, 9, 54);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+footer{
+    background-color: lightgoldenrodyellow;
+}
